@@ -36,4 +36,4 @@ Neste projeto foi utilizado as seguintes tecnologias:
   <br>
 </p>
 
-<img src="#" />
+<img src="https://github.com/lisandro-vitor/Jokenpo/blob/main/assets/template.jpg?raw=true" />
